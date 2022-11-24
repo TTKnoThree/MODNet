@@ -2,6 +2,10 @@
 # *.ckpt
 *.onnx
 
+# don't save input and output images
+input_image*
+output_image*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
