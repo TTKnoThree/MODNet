@@ -1,5 +1,5 @@
 # Temporary directories and files
-*.ckpt
+# *.ckpt
 *.onnx
 
 # Byte-compiled / optimized / DLL files
